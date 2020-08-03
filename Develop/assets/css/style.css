@@ -1,13 +1,30 @@
+/*Default Page Style*/
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
-body {
-    background-color: #d9dcd6;
+a {
+    color: #ffffff;
+    text-decoration: none;
 }
 
+p {
+    font-size: 16px;
+}
+
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
+/*Header Style*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -41,15 +58,13 @@ body {
     margin-left: 25px;
 }
 
-a {
-    color: #ffffff;
-    text-decoration: none;
+
+/*Body Default Style*/
+body {
+    background-color: #d9dcd6;
 }
 
-p {
-    font-size: 16px;
-}
-
+/*Hero Style*/
 .hero {
     height: 800px;
     width: 100%;
@@ -59,22 +74,7 @@ p {
     background-position: center;
 }
 
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
-}
-
+/* Benefits Section Style */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -100,6 +100,13 @@ p {
     display: block;
     margin: 10px auto;
     max-width: 150px;
+}
+
+/*Main Content Style */
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
 }
 
 .search-engine-optimization {
@@ -156,6 +163,7 @@ p {
     font-size: 36px;
 }
 
+/*Footer Style*/
 .footer {
     padding: 30px;
     clear: both;
