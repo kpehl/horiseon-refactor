@@ -22,3 +22,5 @@ merge benefit-lead, benefit-brand, and benefit-cost, merge ... h3, and merge ...
 merge .s-e-o, .o-r-m, and .s-m-m, merge ... img, and merge ... h2
 
 Added home page link to title 
+
+In CSS, corrected Calibri font to have quotation marks
