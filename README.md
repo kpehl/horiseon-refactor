@@ -4,23 +4,16 @@ This project is the challenge for Module 1.  The assignment is to refactor a web
 
 Project cloned via GitHub fork on 3 August 2020.
 
-Notes for updates after preliminary look at code:
-HTML
-Head - update title
-Body
-    hero div class is empty
-    div content is not consistent - add id for search-engine-optimization, will fix the relative link
-    div benefits
-        one image tag is not self closing
-    all images need alt descriptions, "" for decorative, something descriptive for photos
-    add comments for code, sections
-Footer
+Modifications made to HTML
+Title updated, link to home page added
+Added id to Search Engine Optimiztion
+Fixed image tag in Benefits section
+Added alt descriptions to images
+Added comments to code
+Updated style tags as needed to match streamlined CSS
 
-CSS
-add comments for sections, styles
-merge benefit-lead, benefit-brand, and benefit-cost, merge ... h3, and merge ... img
-merge .s-e-o, .o-r-m, and .s-m-m, merge ... img, and merge ... h2
-
-Added home page link to title 
-
-In CSS, corrected Calibri font to have quotation marks
+Modifications to CSS
+Added comments to sections and organized style rules to match html flow
+Merged unnecessary rules in Benefits section
+Merged unnecessary rules in Content section
+Corrected error in font call out, adding quote marks around Calibri
