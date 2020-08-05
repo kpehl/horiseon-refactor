@@ -27,6 +27,8 @@ Merged unnecessary rules in Benefits section
 Merged unnecessary rules in Content section
 Corrected error in font call out, adding quote marks around Calibri
 
+Modifications to images
+Resized images to web page standards
+
 # Further Suggestions for improvement
-Smaller image sizes for faster loading
 Move hero image to html and add alt description if this image is not decorative in nature
